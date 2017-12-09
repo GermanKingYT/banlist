@@ -1,0 +1,4 @@
+system:
+  logLevel: INFO
+bfbc2:
+  enabled: True
